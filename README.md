@@ -2674,6 +2674,8 @@ Tools to assist the writing of text and documents, including translation, spell 
 
 A list of some online resources that contribute interesting links to apps and info.
 
+[Awesome Modern CLI](https://github.com/thegdsks/awesome-modern-cli/) - A curated list of modern alternatives to classic command-line tools. Faster, prettier, smarter replacements for the Unix utilities you use every day.
+
 [Toolleeo’s CLIpedia](https://robot.unipv.it/clipedia/) - Blog with information on CLI apps, screenshots and other details (license, author, etc.).
 
 [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - A wonderful summary from Joshua Levy regarding command line (Bash in particular) tools, programs, tips, and tricks; contains many pointers to resources and repositories, in the form of "to do this you must know that", which gives great pointers but requires further investigation from different sources; translated in many languages.
